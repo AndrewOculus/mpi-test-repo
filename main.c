@@ -8,7 +8,7 @@ int main(){
 	MPI_Comm_rank( MPI_COMM_WORLD, &rank);
 	printf("rank: %d\n", rank);
 
-	MPI_Finalaize();
+	MPI_Finalize();
 
 
 }
