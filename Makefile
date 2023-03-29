@@ -1,1 +1,1 @@
-gcc main.c
+mpicc main.c
